@@ -1,16 +1,34 @@
-# Excel Attendance Dashboard – Mini Project
+# Attendance Dashboard – Excel Mini Project
 
-This is an Excel dashboard project created using:
-- Pivot Table
+This project demonstrates an attendance tracking and analytics dashboard built in Microsoft Excel.
+
+## 📋 Features
+- Clean table with daily attendance
+- Conditional formatting to highlight absentees
+- Pivot table summarizing Present ("P") and Absent ("A") counts per student
+- Dashboard view with KPI cards and charts
+- Notes / summary analysis
+
+## 📊 What it Shows
+- Overall Attendance: 60%
+- Students A, C, D have perfect attendance
+- Students B, E have zero attendance (area of concern)
+
+## 📂 Included Files
+- `Attendance_Dashboard.xlsx` — final workbook
+- Screenshots of the dashboard (optional upload)
+
+## 📈 Skills Demonstrated
+- Excel Tables
+- Data Validation
+- Formulas & KPI calculation
 - Conditional Formatting
-- KPI Cards
-- Charts
-- Summary Notes
+- Pivot Tables
+- Excel Dashboard creation
 
-## Output
-Overall attendance = 60%
-Best students = A, C, D (100%)
-Worst students = B, E (0%)
-
-## Files
-- Attendance_Dashboard.xlsx
+## 🧠 How to Use
+Open the Excel file and navigate through:
+- **Attendance_Data**
+- **Summary**
+- **Pivot**
+- **Dashboard**
